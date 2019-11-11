@@ -15,7 +15,6 @@ import java.util.List;
 import java.util.concurrent.CountDownLatch;
 
 public class MediaCodecVideoDecoder {
-
     private static final String VP8_MIME_TYPE = "video/x-vnd.on2.vp8";
     private static final String VP9_MIME_TYPE = "video/x-vnd.on2.vp9";
     private static final String H264_MIME_TYPE = "video/avc";
